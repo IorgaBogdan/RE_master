@@ -85,14 +85,14 @@ const PropertyOverview = ({ propertyId }: PropertyOverviewProps) => {
           open-air BBQ area while taking in breathtaking views of the Black Sea and Tomis Marina, or admire the city
           lights twinkling along the seafront at night.
           Start or end your day with a workout in our fully equipped fitness center and yoga studio, reserved exclusively
-          for residents. Save valuable time and hold important meetings in our business center’s private conference room,
+          for residents. Save valuable time and hold important meetings in our business center s private conference room,
           adjacent to the internet and coffee lounge.
-          Our premium location is just minutes from Constanța’s most beautiful beaches, with easy access to Mamaia Resort,
-          the city center, the tourist port, and major roads. You'll be close to top shopping destinations like City Park
+          Our premium location is just minutes from Constanța s most beautiful beaches, with easy access to Mamaia Resort,
+          the city center, the tourist port, and major roads. You ll be close to top shopping destinations like City Park
           Mall and VIVO!, as well as leading medical centers such as Constanța County Hospital, OCH Private Hospital, and
           Euromaterna.Contact us today for a private tour and embrace the Seaview Constanța lifestyle as your own.
           Seaview Constanța Apartments is a premium residential community located in the heart of Constanța, well connected
-           to the city’s main transportation and urban services.
+           to the city s main transportation and urban services.
         </p>
       </div>
     </div>
