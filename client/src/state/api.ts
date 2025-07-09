@@ -274,12 +274,12 @@ export const api = createApi({
     }),
 
     getPropertyLeases: build.query<Lease[], number>({
-      query: (propertyId) => `properties/${propertyId}/leases`,
+      query: (propertyId) => `leases/property/${propertyId}`,
       providesTags: ["Leases"],
       async onQueryStarted(_, { queryFulfilled }) {
-        await withToast(queryFulfilled, {
-          error: "Failed to fetch property leases.",
-        });
+      await withToast(queryFulfilled, {
+        error: "Failed to fetch property leases.",
+      });
       },
     }),
 
